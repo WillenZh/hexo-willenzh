@@ -130,5 +130,5 @@ skip_render:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/WillenZh/willenzh.github.io.git
+  repo: git@github.com:WillenZh/willenzh.github.io.git
   message: 博客更新咯~
