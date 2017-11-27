@@ -2,7 +2,7 @@ hexo-theme-yilia
 ================
 
 
-# 这是一个基于yilia的个人修改版主题 for Jayvee
+# 这是一个基于yilia的个人修改版主题 for Willen Zhang
 修改内容如下：
 
 1. 增加了google和baidu的sitemap以及相关统计脚本
