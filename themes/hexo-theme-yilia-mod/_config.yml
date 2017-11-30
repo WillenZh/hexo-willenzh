@@ -4,18 +4,18 @@ menu:
   所有文章: /archives
   #类别: /categories
   关于: /about
-  #个人简历: /about/resume.html
+  个人简历: /about/resume.html
   # 随笔: /tags/随笔
 
 # SubNav
 subnav:
   github: https://github.com/Willenzh
-  weibo: http://weibo.com/1692530220
-  zhihu: https://www.zhihu.com/people/jayveehe
+  weibo: https://weibo.com/236781189
+  zhihu: "#"
   #rss: "#"
-  facebook: "https://www.facebook.com/jayveehe"
+  facebook: "https://www.facebook.com/willenzh"
   # google: "#"
-  twitter: https://twitter.com/JayveeHe
+  twitter: https://twitter.com/WillenZhang
   # linkedin: "#"
 
 
